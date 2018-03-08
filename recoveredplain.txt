@@ -1,0 +1,3 @@
+hello i am about to be encrypted
+
+to decrypt me use the key 'decrypto'
