@@ -8,9 +8,12 @@ File encryption program written in C which uses the mbedtls library to perform A
 
 ## IMPORTANT
 
-<mode> - can be **any** permutation or substrings of the words _encrypt_ and _decrypt_ depending on what mode you want the program in.
+_mode_ can be **any** permutation or substrings of the words _encrypt_ and _decrypt_ depending on what mode you want the program in.
 
-e.g ./encrypt eNcr filex filey key
+e.g 
+```
+./encrypt eNcr filex filey key
+```
 
 ## Usage
 
